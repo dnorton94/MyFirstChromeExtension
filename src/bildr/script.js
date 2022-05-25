@@ -1,4 +1,4 @@
-var openPage = 'https://helloearth.bildr.com', bildrIfrmId = 'bildrifrm_My First Chrome Extension_1', bildrPopId = 'My First Chrome Extension_1'; 
+var openPage = 'https://helloearth.bildr.com/', bildrIfrmId = 'bildrifrm_My First Chrome Extension_1', bildrPopId = 'My First Chrome Extension_1'; 
 
 //var openPage, bildrIfrmId, bildrPopId - vars from ext generating
 // Append CSS File to head

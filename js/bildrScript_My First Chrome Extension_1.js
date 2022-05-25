@@ -1,4 +1,4 @@
-var bildrScriptOpenPage = 'https://helloearth.bildr.com', bildrScriptBildrIfrmId = 'bildrifrm_My First Chrome Extension_1', bildrScriptBildrPopId = 'My First Chrome Extension_1'; 
+var bildrScriptOpenPage = 'https://helloearth.bildr.com/', bildrScriptBildrIfrmId = 'bildrifrm_My First Chrome Extension_1', bildrScriptBildrPopId = 'My First Chrome Extension_1'; 
 function injectScript(file_path, tag) {
 var node = document.getElementsByTagName(tag)[0];
 var script = document.createElement('script');
